@@ -1,0 +1,24 @@
+/* Navbar.css */
+.navbar {
+    background-color: #212121;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .navbar a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .navbar a:hover {
+    text-decoration: underline;
+  }
+  
